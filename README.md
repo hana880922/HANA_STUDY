@@ -95,8 +95,8 @@
 </p>
 
 
-<!-- 🎀 쿠로미 움짤 --!>
-<img src ="https://raw.githubusercontent.com/hana880922/HANA_STDUY/main/imges/kuromi7.gif" width="200">
+<!-- 🎀 쿠로미 움짤 -->
+<img src ="https://raw.githubusercontent.com/hana880922/HANA_STUDY/main/images/kuromi7.gif" width="200">
 
 ---
 
