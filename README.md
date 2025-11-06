@@ -3,7 +3,7 @@
 <!-- ✅ 상단 헤더 배너 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA9FFB&height=200&section=header&text=HANA's%20Profile&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA9FFB&height=200&section=header&text=HANA_STUDY&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <div align="center">
