@@ -102,18 +102,19 @@
 
 ## 👀 Visitors
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hana880922&color=CC99FF&style=flat-square" />
 </p>
 
 ---
 
+<p align="center"><sub>💜 꾸준히 성장하는 HANA의 개발 기록 💜</sub></p>
+
 <!-- ✅ 하단 푸터 배너 -->
 <p align="center">
   <img src="./assets/hana-footer.svg" width="100%">
 </p>
-
-<p align="center"><sub>💜 꾸준히 성장하는 HANA의 개발 기록 💜</sub></p>
 
 
 ## 📚 Tech Stack
