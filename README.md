@@ -11,6 +11,9 @@
 
 ---
 
+## 📁 Project Structure
+
+```md
 📦 HANA_STUDY  
 
 ├── 📁 assets                # README 배너 이미지  
@@ -26,9 +29,8 @@
 ├── 📁 VITE                  # Vite 기반 실습  
 │   └── vite-react-app  
 │  
-└── 📁 react-2day-assignment # 2일차 과제 백업 및 학습 기록
-
-
+└── 📁 react-2day-assignment # 2일차 과제 백업 및 학습 기록  
+```
 ---
 
 ## ✅ What’s Inside?
