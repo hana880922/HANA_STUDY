@@ -1,13 +1,15 @@
-<!-- ✅ 상단 헤더 배너 -->
-<p align="center">
-  <img src="./assets/hana-header.svg" width="100%">
-</p>
-<br/>
-<div align="center">
-# 🌸 HANA STUDY  
-### Front-end Developer Learning Portfolio
+<!-- 💜 HANA GitHub Profile (Kuromi × Lavender Style) -->
 
-💜 *“오늘의 작은 성장도 기록하면 큰 힘이 된다!”*  
+<!-- ✅ 상단 헤더 배너 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA9FFB&height=200&section=header&text=HANA's%20Profile&fontSize=50&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<div align="center">
+## 🌸 HANA_STUDY  
+오늘도 열심히 배워가는 프로트앤드 개발자예요 💜🤍
+하루하루 작은 성장을 귀엽게 기록하고 있어요! 🎀   
 
 ---
 
@@ -17,16 +19,16 @@
  📦 HANA_STUDY  
 
   📁 assets               
-    ├── hana-header.svg  
-    └── hana-footer.svg  
+    ├─ hana-header.svg  
+    └─ hana-footer.svg  
   📁 images                
-    └── preview.png  
+    └─ preview.png  
   
   📁 CRA                     
-   └── cra-react-app  
+    └─ cra-react-app  
   
   📁 VITE                    
-   └── vite-react-app  
+    └─ vite-react-app  
   
   📁 react-2day-assignment   
 ```
@@ -35,18 +37,18 @@
 
 ## ✅ What’s Inside?
 
-### 🔹 1) React 기본 개념 학습
+### 💟 1) React 기본 개념 학습
 - 컴포넌트 구조  
 - Props / State  
 - JSX 문법  
 - 함수형 & 클래스형 컴포넌트 변환 연습  
 
-### 🔹 2) CRA & VITE 비교 학습
+### 💟 2) CRA & VITE 비교 학습
 - Webpack vs ESBuild  
 - 프로젝트 생성 속도 비교  
 - 폴더 구조 및 개발환경 차이  
 
-### 🔹 3) Git / GitHub 실습
+### 💟 3) Git / GitHub 실습
 - 배너 삽입  
 - README 디자인  
 - 폴더 구조 정리  
@@ -84,7 +86,7 @@
 </p>
 
 
-## 🔥 Contribution Graph (Grass)
+## 🌈 Contribution Graph (Grass)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&bg_color=ffffff&color=FF8FAB&line=FFB3D1&point=FFCCE5&area=true&hide_border=true&custom_title=💜Hana's%20Lovely%20Grass💜" width="95%">
