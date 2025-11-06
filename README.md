@@ -95,7 +95,7 @@
 </p>
 
 
-<img src="/Users/hanawon/Desktop/korumi/kuromi7.gif">
+![kuromi7 gif](https://raw.githubusercontent.com/hana880922/HANA_STDUY/main/imges/kuromi7.gif)
 
 ---
 
