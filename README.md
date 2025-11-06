@@ -87,7 +87,7 @@
 ## 🔥 Contribution Graph (Grass)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&theme=github-low-contrast&area=true&hide_border=true&color=8a2be2&line=8a2be2&point=8a2be2" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&bg_color=ffffff&color=FF8FAB&line=FFB3D1&point=FFCCE5&area=true&hide_border=true&custom_title=💜Hana's%20Lovely%20Grass💜" width="95%">
 </p>
 
 
@@ -101,11 +101,6 @@
 ---
 
 ## 👀 Visitors
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&bg_color=ffffff&color=A78BFA&line=CAA9FF&point=DCC4FF&area=true&hide_border=true" width="95%">
-</p>
 
 ---
 
