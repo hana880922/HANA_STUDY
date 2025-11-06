@@ -104,7 +104,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hana880922&color=CC99FF&style=flat-square" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hana880922&bg_color=ffffff&color=A78BFA&line=CAA9FF&point=DCC4FF&area=true&hide_border=true" width="95%">
 </p>
 
 ---
