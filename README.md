@@ -14,21 +14,21 @@
 ## 📁 Project Structure
 
 ```md
-📦 HANA_STUDY  
+ 📦 HANA_STUDY  
 
- 📁 assets               
-   ├── hana-header.svg  
-   └── hana-footer.svg  
- 📁 images                
-   └── preview.png  
+  📁 assets               
+    ├── hana-header.svg  
+    └── hana-footer.svg  
+  📁 images                
+    └── preview.png  
   
- 📁 CRA                     
+  📁 CRA                     
    └── cra-react-app  
   
- 📁 VITE                    
-  └── vite-react-app  
+  📁 VITE                    
+   └── vite-react-app  
   
- 📁 react-2day-assignment   
+  📁 react-2day-assignment   
 ```
 
 ---
