@@ -7,8 +7,10 @@
 </p>
 
 <div align="center">
-## 🌸 HANA_STUDY  
+🌸 HANA_STUDY  
+<br/>
 오늘도 열심히 배워가는 프로트앤드 개발자예요 💜🤍
+<br/>  
 하루하루 작은 성장을 귀엽게 기록하고 있어요! 🎀   
 
 ---
